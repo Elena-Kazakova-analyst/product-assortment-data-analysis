@@ -81,7 +81,7 @@
 ---
 ## 📊 Дашборд "Анализ товарного ассортимента"
 
-![Дашборд в Yandex DataLens](имя_файла.png)
+![Дашборд в Yandex DataLens](https://github.com/Elena-Kazakova-analyst/product-assortment-data-analysis/blob/main/дашборд%20product.PNG)
 
 ## 🔗 Ссылки
 
