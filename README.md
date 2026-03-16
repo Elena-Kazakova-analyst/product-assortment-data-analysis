@@ -79,4 +79,7 @@
 - ✅ Автоматическая классификация товаров по ключевым словам
 
 ---
+## 🔗 Ссылки
 
+*   **Интерактивный дашборд:** [Смотреть в DataLens](https://datalens.ru/deu2cm5c1coux-tovary-po-kategoriyam?state=c9476772186)
+*   **Ноутбук с кодом:** [Открыть .ipynb](https://github.com/Elena-Kazakova-analyst/project-dataset-telecom/blob/main/telecom_data_analysis.ipynb)
